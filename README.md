@@ -6,5 +6,5 @@ Features.
 
 1. Viewport Declaration
 2. HTML Image Links
-3. Forms - fieldsets
+3. Forms - fieldsets > legend
 4. iframes
